@@ -16,7 +16,8 @@ M. J. Feldman, arXiv preprint, 2023.\
 [arXiv](https://arxiv.org/abs/2311.02040)
 
 Sharp Recovery Thresholds of Tensor PCA Spectral Algorithms\
-D. L. Donoho and M. J. Feldman, to appear in NeurIPS 2023.
+D. L. Donoho and M. J. Feldman, to appear in NeurIPS 2023.\
+[pdf](https://github.com/Michael-Feldman/Michael-Feldman.github.io/blob/main/assets/NeurIPS_tensor_pca.pdf)
 
 Optimal Eigenvalue Shrinkage in the Semicircle Limit\
 D. L. Donoho and M. J. Feldman, arXiv preprint, 2022.\
