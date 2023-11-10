@@ -21,7 +21,7 @@ D. L. Donoho and M. J. Feldman, to appear in NeurIPS 2023.\
 
 Optimal Eigenvalue Shrinkage in the Semicircle Limit\
 D. L. Donoho and M. J. Feldman, arXiv preprint, 2022.\
-[arxiv](https://arxiv.org/pdf/2210.04488)
+[arxiv](https://arxiv.org/abs/2210.04488)
 
 Spiked Singular Values and Vectors under Extreme Aspect Ratios\
 M. J. Feldman, _Journal of Multivariate Analysis_ 196:105187, 2023.\
