@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a postdoctoral researcher in the Department of Statistics at Stanford University. I completed my Ph.D. here at Stanford in June 2023, advised by David Donoho. My undergraduate degree is in Applied and Computational Mathematics from Caltech.\
+I am a postdoctoral researcher in the Department of Statistics at Stanford University. I completed my Ph.D. here at Stanford in June 2023, advised by David Donoho. My undergraduate degree is in Applied and Computational Mathematics from Caltech.
 
 My research interests include high-dimensional statistics, random matrix theory, covariance estimation, and tensor methods. 
 
