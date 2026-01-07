@@ -4,6 +4,11 @@ header img {
   height: auto;
 }
 
+header {
+  outline: 3px solid red;
+}
+
+
 .wrapper {
   width: 1000px !important;
   max-width: 95% !important; /* keeps it responsive on small screens */
