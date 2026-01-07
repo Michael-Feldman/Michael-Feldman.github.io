@@ -1,0 +1,5 @@
+/* Make header photo smaller without affecting anything else */
+header img {
+  max-width: 220px;
+  height: auto;
+}
