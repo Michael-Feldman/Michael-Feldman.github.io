@@ -14,7 +14,7 @@ mjf529[at]stern[dot]nyu[dot]edu\
 ## Publications and preprints
 
 Robustness of OLS to sample removals: Theoretical analysis and implications\
-E. Azar, M. J. Feldman, B. Nadler. arXiv preprint, 2025.\
+E. Azar, M. J. Feldman, B. Nadler. preprint, 2025.\
 [arXiv](https://arxiv.org/pdf/2512.23069)
 
 Optimal Eigenvalue Shrinkage in the Semicircle Limit\
@@ -27,7 +27,7 @@ M. J. Feldman. _SIAM Journal on Mathematics of Data Science_ 7(2):542-571, 2025.
 [arXiv](https://arxiv.org/abs/2311.02040)
 
 Sparse PCA: Phase Transitions in the Critical Regime\
-M. J. Feldman, T. Misiakiewicz, and E. Romanov.  arXiv preprint, 2024.\
+M. J. Feldman, T. Misiakiewicz, and E. Romanov.  preprint, 2024.\
 [arXiv](https://arxiv.org/pdf/2412.21038) [slides](https://github.com/Michael-Feldman/Michael-Feldman.github.io/blob/main/assets/sparse_talk.pdf)
 
 Sharp Recovery Thresholds of Tensor PCA Spectral Algorithms\
