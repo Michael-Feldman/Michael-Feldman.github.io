@@ -5,5 +5,7 @@ header img {
 }
 
 .wrapper {
-  max-width: 1000px;
+  width: 1000px !important;
+  max-width: 95% !important; /* keeps it responsive on small screens */
 }
+
