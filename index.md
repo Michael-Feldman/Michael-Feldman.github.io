@@ -25,11 +25,10 @@ Spectral Properties of Elementwise-Transformed Spiked Matrices\
 M. J. Feldman. _SIAM Journal on Mathematics of Data Science_ 7(2):542-571, 2025.\
 [SIAM](https://epubs.siam.org/doi/full/10.1137/23M1627985)
 [arXiv](https://arxiv.org/abs/2311.02040)
-[slides](https://github.com/Michael-Feldman/Michael-Feldman.github.io/blob/main/assets/sparse_talk.pdf)
 
 Sparse PCA: Phase Transitions in the Critical Regime\
-M. J. Feldman, T. Misiakiewicz, and E. Romanov.  arXiv preprint, 2024.
-[arXiv](https://arxiv.org/pdf/2412.21038)
+M. J. Feldman, T. Misiakiewicz, and E. Romanov.  arXiv preprint, 2024.\
+[arXiv](https://arxiv.org/pdf/2412.21038) [slides](https://github.com/Michael-Feldman/Michael-Feldman.github.io/blob/main/assets/sparse_talk.pdf)
 
 Sharp Recovery Thresholds of Tensor PCA Spectral Algorithms\
 D. L. Donoho and M. J. Feldman. _NeurIPS_ 36:56628-56640, 2023.\
