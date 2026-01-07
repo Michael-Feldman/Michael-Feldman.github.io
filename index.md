@@ -1,9 +1,8 @@
-
 ---
 layout: default
 ---
 
-I am an Assistant Professor of Technology, Operations, and Statistics at the NYU Stern School of Business. I received my Ph.D. from Stanford University in 2023, advised by David Donoho, and spent a year as a postdoctoral researcher at the Weizmann Institute of Science with Boaz Nadler. My undergraduate degree is in Applied and Computational Mathematics from Caltech.
+I am an Assistant Professor of Technology, Operations, and Statistics at the NYU Stern School of Business. I received my Ph.D. from Stanford University in 2023, advised by David Donoho, and spent a year as a postdoctoral researcher at the Weizmann Institute of Science, working with Boaz Nadler. My undergraduate degree is in Applied and Computational Mathematics from Caltech.
 
 My research interests include high-dimensional statistics, random matrix theory, spectral methods, and covariance estimation.
 
