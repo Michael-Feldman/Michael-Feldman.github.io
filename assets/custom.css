@@ -8,8 +8,8 @@ section {
   outline: 3px solid blue !important;
 }
 
-
-/* Wider main text column */
-section {
-  max-width: 900px;
+/* Wider main content */
+.wrapper > section {
+  width: 820px !important;
+  max-width: 100% !important;
 }
