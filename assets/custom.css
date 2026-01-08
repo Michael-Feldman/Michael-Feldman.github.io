@@ -15,12 +15,15 @@ header {
   width: 300px;
 }
 
-/* Push text over accordingly */
-section {
-  margin-left: 340px;
-  max-width: 1450px;
+/* Actually widen the main container */
+.wrapper {
+  width: 1500px !important;
+  max-width: 95% !important;
 }
 
-.wrapper {
-  max-width: 1500px;
+/* Let the text column expand into the available space */
+section {
+  margin-left: 340px !important;
+  width: auto !important;
+  max-width: none !important;
 }
