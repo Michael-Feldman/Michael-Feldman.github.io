@@ -1,11 +1,10 @@
-/* Make header photo smaller without affecting anything else */
+/* Smaller header logo/photo */
 header img {
   max-width: 220px;
   height: auto;
 }
 
-.wrapper {
-  width: 1100px !important;
-  max-width: 95% !important; /* keeps it responsive on small screens */
+/* Wider main text column */
+section {
+  max-width: 900px;
 }
-
