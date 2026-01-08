@@ -5,23 +5,22 @@ header img {
 }
 
 /* Prevent name in header from wrapping */
-header h1 {
-  white-space: nowrap;
+header h1,
+header h1 a {
+  white-space: nowrap !important;
 }
 
-
-/* Keep header a fixed width */
+/* Make header a bit wider */
 header {
-  width: 260px;
+  width: 300px;
 }
 
-/* Give the text column room by pushing it right of the header */
+/* Push text over accordingly */
 section {
-  margin-left: 300px;   /* header width + some gap */
-  max-width: 900px;     /* how wide the text column can get */
+  margin-left: 340px;
+  max-width: 900px;
 }
 
-/* Optional: make overall page a bit wider so max-width can be used */
 .wrapper {
   max-width: 1250px;
 }
