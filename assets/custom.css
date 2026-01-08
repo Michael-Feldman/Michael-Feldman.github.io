@@ -4,6 +4,12 @@ header img {
   height: auto;
 }
 
+/* Prevent name in header from wrapping */
+header h1 {
+  white-space: nowrap;
+}
+
+
 /* Keep header a fixed width */
 header {
   width: 260px;
