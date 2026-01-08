@@ -1,15 +1,21 @@
-/* Smaller header logo/photo */
+/* Smaller header photo */
 header img {
   max-width: 220px;
   height: auto;
 }
 
-section {
-  outline: 3px solid blue !important;
+/* Keep header a fixed width */
+header {
+  width: 260px;
 }
 
-/* Wider main content */
-.wrapper > section {
-  width: 820px !important;
-  max-width: 100% !important;
+/* Give the text column room by pushing it right of the header */
+section {
+  margin-left: 300px;   /* header width + some gap */
+  max-width: 900px;     /* how wide the text column can get */
+}
+
+/* Optional: make overall page a bit wider so max-width can be used */
+.wrapper {
+  max-width: 1250px;
 }
