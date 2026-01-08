@@ -17,7 +17,7 @@ header {
 
 /* Actually widen the main container */
 .wrapper {
-  width: 1000px !important;
+  width: 950px !important;
   max-width: 95% !important;
 }
 
