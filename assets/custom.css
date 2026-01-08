@@ -4,6 +4,11 @@ header img {
   height: auto;
 }
 
+section {
+  outline: 3px solid blue !important;
+}
+
+
 /* Wider main text column */
 section {
   max-width: 900px;
