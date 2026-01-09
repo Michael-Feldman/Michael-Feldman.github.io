@@ -14,7 +14,7 @@ mjf529[at]stern[dot]nyu[dot]edu\
 ## Publications and preprints
 
 Robustness of OLS to sample removals: Theoretical analysis and implications\
-E. Azar, M. J. Feldman, B. Nadler. preprint, 2025.\
+E. Azar, M. J. Feldman, and B. Nadler. preprint, 2025.\
 [arXiv](https://arxiv.org/pdf/2512.23069)
 
 Optimal Eigenvalue Shrinkage in the Semicircle Limit\
